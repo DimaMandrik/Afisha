@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<afisha city="Minsk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.htp.by"
+xsi:schemaLocation="http://www.htp.by AfishaXMLSchema3.xsd">
+	<events>
+		<film>
+			<title>Gamer</title>
+			<date>2016-11-11</date>
+			<cost>50</cost>
+			<rating>7</rating>
+		</film>
+		<opera>
+			<title>BorisGodunov</title>
+			<date>2013-09-03</date>
+			<cost>100</cost>
+			<singer>Baksov</singer>
+		</opera>
+		<exhibition>
+			<title>Modern</title>
+			<date>2013-03-11</date>
+			<cost>20</cost>
+			<theme>EarlyModern</theme>
+			<author>Shagal</author>
+		</exhibition>
+	</events>
+</afisha>
